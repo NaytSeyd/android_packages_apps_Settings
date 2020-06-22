@@ -13,203 +13,203 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Horns -->
-    <string name="horns_title">Horns</string>
-    <string name="horns_summary">Where you grow</string>
+    <string name="horns_title">Boynuzlar</string>
+    <string name="horns_summary">Nerede büyüyorsun</string>
 
     <!-- StagOS version preference -->
-    <string name="stagos_version">StagOS version</string>
-    <string name="build_date">Build date</string>
+    <string name="stagos_version">StagOS Sürümü</string>
+    <string name="build_date">Derleme tarihi</string>
 
     <!-- Fingerprint location message - default -->
-    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Locate the fingerprint sensor on the front of your phone.</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Locate the fingerprint sensor on the left side of your phone.</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Locate the fingerprint sensor on the right side of your phone.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="default">Telefonunuzun önündeki parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="default">Telefonunuzun sol tarafındaki parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="default">Telefonunuzun sağ tarafındaki parmak izi sensörünü bulun.</string>
 
     <!-- Fingerprint location message - generic -->
-    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Locate the fingerprint sensor on the front of your device.</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Locate the fingerprint sensor on the left side of your device.</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Locate the fingerprint sensor on the right side of your device.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="device">Cihazınızın önündeki parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="device">Cihazınızın sol tarafındaki parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="device">Cihazınızın sağ tarafındaki parmak izi sensörünü bulun.</string>
 
     <!-- Fingerprint location message - tablet -->
-    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Locate the fingerprint sensor on the front of your tablet.</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Locate the fingerprint sensor on the left side of your tablet.</string>
-    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Locate the fingerprint sensor on the right side of your tablet.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_front" product="tablet">Tabletinizin önündeki parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_left" product="tablet">Tabletinizin sol tarafındaki parmak izi sensörünü bulun.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_right" product="tablet">Tabletinizin sağ tarafındaki parmak izi sensörünü bulun.</string>
 
-    <string name="dashboard_conditions_title">Dashboard conditions</string>
-    <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
-    <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
-    <string name="dashboard_suggestions_title">Dashboard suggestions</string>
-    <string name="summary_dashboard_suggestions_enabled">Dashboard suggestions are enabled</string>
-    <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
+    <string name="dashboard_conditions_title">Ayarlar durumu</string>
+    <string name="summary_dashboard_conditions_enabled">Ayarlar menüsü durumları etkin</string>
+    <string name="summary_dashboard_conditions_disabled">Ayarlar menüsü durumları devre dışı</string>
+    <string name="dashboard_suggestions_title">Ayarlar önerileri</string>
+    <string name="summary_dashboard_suggestions_enabled">Ayarlar menüsü önerileri etkin</string>
+    <string name="summary_dashboard_suggestions_disabled">Ayarlar menüsü önerileri devre dışı</string>
 
     <!-- Charging vibration -->
-    <string name="charging_vibro_title">Charging vibration</string>
+    <string name="charging_vibro_title">Şarj titreşimi</string>
 
     <!-- Screenshot sound -->
-    <string name="screenshot_sound_title">Screenshot sound</string>
+    <string name="screenshot_sound_title">Ekran görüntüsü sesi</string>
 
     <!-- Battery stats reset -->
-    <string name="battery_stats_reset">Reset stats</string>
-    <string name="battery_stats_message">Battery history stats are going to be reset</string>
+    <string name="battery_stats_reset">İstatistikleri sıfırla</string>
+    <string name="battery_stats_message">Pil geçmişi istatistikleri sıfırlanacak</string>
 
     <!-- SELinux status -->
-    <string name="selinux_status">SELinux status</string>
-    <string name="selinux_status_disabled">Disabled</string>
-    <string name="selinux_status_permissive">Permissive</string>
-    <string name="selinux_status_enforcing">Enforcing</string>
+    <string name="selinux_status">SELinux durumu</string>
+    <string name="selinux_status_disabled">Devre dışı</string>
+    <string name="selinux_status_permissive">Serbest</string>
+    <string name="selinux_status_enforcing">Zorunlu</string>
 
     <!-- Back Gesture Height -->
-    <string name="back_height_low_label">Full</string>
-    <string name="back_height_high_label">Bottom</string>
-    <string name="back_options_dialog_title">Options</string>
-    <string name="back_height_message">Amount of screen height used as touchable region for back gesture.</string>
+    <string name="back_height_low_label">Tam</string>
+    <string name="back_height_high_label">Alt</string>
+    <string name="back_options_dialog_title">Seçenekler</string>
+    <string name="back_height_message">Geri hareketi için dokunmatik bölge olarak kullanılan ekran yüksekliği miktarı.</string>
 
     <!-- Themes customisation -->
-    <string name="theme_customization_systemui_title">Color bucket</string>
+    <string name="theme_customization_systemui_title">Renk kovası</string>
 
     <!-- Sound: Title for the option defining the phone ringtone for slot1 on Muilti SIM device. [CHAR LIMIT=50] -->
-    <string name="ringtone1_title">Phone ringtone - SIM 1</string>
+    <string name="ringtone1_title">Telefon zil sesi - SIM 1</string>
     <!-- Sound: Title for the option defining the phone ringtone for slot2 on Muilti SIM device. [CHAR LIMIT=50] -->
-    <string name="ringtone2_title">Phone ringtone - SIM 2</string>
+    <string name="ringtone2_title">Telefon zil sesi - SIM 2</string>
 
     <!-- Notch: Full screen apps -->
-    <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
-    <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
+    <string name="display_cutout_force_fullscreen_title">Tam ekran uygulamaları</string>
+    <string name="display_cutout_force_fullscreen_summary">Uygulamaları çentik alanını yok saymaya zorlama</string>
 
     <!-- As Officially removed from AOSP but not from source -->
 
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize accent color. -->
-    <string name="theme_customization_accent_color_title">Accent color</string>
+    <string name="theme_customization_accent_color_title">Vurgu rengi</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize headline and body fonts. -->
-    <string name="theme_customization_font_title">Headline / Body font</string>
+    <string name="theme_customization_font_title">Başlık / Gövde yazı tipi</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the setting which enables overlays to customize the adaptive icon shape (e.g. launcher and quick settings icons). -->
-    <string name="theme_customization_icon_shape_title">Icon shape</string>
+    <string name="theme_customization_icon_shape_title">Simge şekli</string>
 
     <!-- Doze on double tap -->
-    <string name="double_tap_title">Double tap</string>
-    <string name="doze_double_tap_title">Double tap to check phone</string>
-    <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
+    <string name="double_tap_title">Çift dokunma</string>
+    <string name="doze_double_tap_title">Telefonu kontrol etmek için iki kez hafifçe dokunun</string>
+    <string name="doze_double_tap_summary">Çift dokunuşla Pulse bildirimleri</string>
 
 
     <!-- Doze on charge -->
-    <string name="doze_on_charge_title">Always on when charging</string>
-    <string name="doze_on_charge_summary">Show doze screen all the time when charging</string>
+    <string name="doze_on_charge_title">Şarj ederken daima açık</string>
+    <string name="doze_on_charge_summary">Şarj ederken doze ekranını her zaman göster</string>
 
-    <string name="battery_temp">Battery temperature</string>
+    <string name="battery_temp">Pil sıcaklığı</string>
 
     <!-- Smart charging -->
-    <string name="smart_charging_title">Smart Charging</string>
-    <string name="smart_charging_summary">Set maximum charging level</string>
-    <string name="smart_charging_switch_title">Use Smart charging</string>
-    <string name="smart_charging_level_title">Stop trigger level</string>
-    <string name="smart_charging_resume_level_title">Start trigger level</string>
-    <string name="smart_charging_reset_stats_title">Reset battery statistics</string>
-    <string name="smart_charging_reset_stats_summary">Reset battery statistics after reaching user defined charging level</string>
-    <string name="smart_charging_footer">Smart Charging allows you to set maximum charging level to extend the lifespan of your battery</string>
+    <string name="smart_charging_title">Akıllı Şarj</string>
+    <string name="smart_charging_summary">Maksimum şarj seviyesini ayarlama</string>
+    <string name="smart_charging_switch_title">Akıllı şarjı kullanma</string>
+    <string name="smart_charging_level_title">Tetik seviyesini durdur</string>
+    <string name="smart_charging_resume_level_title">Tetik seviyesini başlat</string>
+    <string name="smart_charging_reset_stats_title">Pil istatistiklerini sıfırla</string>
+    <string name="smart_charging_reset_stats_summary">Kullanıcı tanımlı şarj seviyesine ulaştıktan sonra pil istatistiklerini sıfırlayın</string>
+    <string name="smart_charging_footer">Akıllı Şarj, pilinizin ömrünü uzatmak için maksimum şarj seviyesini ayarlamanızı sağlar</string>
 
     <!-- NavigationBar Gestural Mode Tweaks -->
-    <string name="navbar_gesture_mode_category_title">Gesture mode tweaks</string>
-    <string name="navbar_gesture_mode_category_key">gesture_mode_tweaks</string>
-    <string name="navbar_gesture_pill_toggle_title">Full screen gestures</string>
-    <string name="navbar_gesture_pill_toggle_summary">This will hide both the navigation bar and the pill for a seamless fullscreen gesture experience.</string>
-    <string name="navbar_gesture_pill_toggle_summary_disabled">This option is only available for gesture navigation!</string>
+    <string name="navbar_gesture_mode_category_title">Hareket modu ayarları</string>
+    <string name="navbar_gesture_mode_category_key">hareket_modu_ayarları</string>
+    <string name="navbar_gesture_pill_toggle_title">Tam ekran hareketleri</string>
+    <string name="navbar_gesture_pill_toggle_summary">Bu, kesintisiz bir tam ekran hareket deneyimi için hem gezinme çubuğunu hem de hapı gizleyecektir.</string>
+    <string name="navbar_gesture_pill_toggle_summary_disabled">Bu seçenek yalnızca hareketle gezinme için kullanılabilir!</string>
 
-    <string name="fp_swipe_to_dismiss_notifications_title">Swipe fingerprint left or right to dismiss notifications</string>
-    <string name="fp_swipe_to_dismiss_notifications_summary">To dismiss your notifications, swipe left or right on the fingerprint sensor on the back of your phone.</string>
+    <string name="fp_swipe_to_dismiss_notifications_title">Bildirimleri kapatmak için parmak izini sola veya sağa kaydırın</string>
+    <string name="fp_swipe_to_dismiss_notifications_summary">Bildirimlerinizi yok saymak için telefonunuzun arkasındaki parmak izi sensöründe sola veya sağa kaydırın.</string>
 
     <!-- Quick unlock -->
-    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
-    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+    <string name="unlock_quick_unlock_control_title">Hızlı kilit açma</string>
+    <string name="unlock_quick_unlock_control_summary">Doğru PIN / şifre girildiğinde kilidi otomatik olarak açın</string>
 
     <!-- Lock screen pattern size -->
     <string name="lock_pattern_size_3" translatable="false">3 \u00d7 3</string>
     <string name="lock_pattern_size_4" translatable="false">4 \u00d7 4</string>
     <string name="lock_pattern_size_5" translatable="false">5 \u00d7 5</string>
     <string name="lock_pattern_size_6" translatable="false">6 \u00d7 6</string>
-    <string name="lock_settings_picker_pattern_size_message">Choose a pattern size</string>
+    <string name="lock_settings_picker_pattern_size_message">Bir desen boyutu seçin</string>
     <!-- Whether a visible red line will be drawn after the user has drawn the unlock pattern incorrectly -->
-    <string name="lockpattern_settings_enable_error_path_title">Show pattern error</string>
+    <string name="lockpattern_settings_enable_error_path_title">Desen hatasını göster</string>
     <!-- Whether the dots will be drawn when using the lockscreen pattern -->
-    <string name="lockpattern_settings_enable_dots_title">Show pattern dots</string>
+    <string name="lockpattern_settings_enable_dots_title">Desen noktalarını göster</string>
 
     <!-- Display : Rotation -->
-    <string name="display_rotation_title">Rotation</string>
-    <string name="display_rotation_disabled">Disabled</string>
-    <string name="display_rotation_unit">degrees</string>
-    <string name="display_rotation_category_title">Rotation modes</string>
-    <string name="display_rotation_0_title">0 degrees</string>
-    <string name="display_rotation_90_title">90 degrees</string>
-    <string name="display_rotation_180_title">180 degrees</string>
-    <string name="display_rotation_270_title">270 degrees</string>
+    <string name="display_rotation_title">Döndürme</string>
+    <string name="display_rotation_disabled">Devre dışı</string>
+    <string name="display_rotation_unit">derece</string>
+    <string name="display_rotation_category_title">Döndürme modları</string>
+    <string name="display_rotation_0_title">0 derece</string>
+    <string name="display_rotation_90_title">90 derece</string>
+    <string name="display_rotation_180_title">180 derece</string>
+    <string name="display_rotation_270_title">270 derece</string>
 
     <!-- Volume link notification -->
-    <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
+    <string name="volume_link_notification_title">Zil sesi ve bildirim ses düzeyini bağla</string>
 
     <!-- Strings for suggestion card's close button [CHAR LIMIT=20] -->
-    <string name="suggestion_button_close">Close</string>
+    <string name="suggestion_button_close">Kapat</string>
 
     <!-- Lockscreen rotation -->
-    <string name="lockscreen_rotation_title">Auto-rotate lockscreen</string>
-    <string name="lockscreen_rotation_summary">Allow rotation on the lockscreen</string>
+    <string name="lockscreen_rotation_title">Kilit ekranını otomatik döndür</string>
+    <string name="lockscreen_rotation_summary">Kilit ekranında döndürmeye izin ver</string>
 
     <!-- Scramble pin -->
-    <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
-    <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
+    <string name="unlock_scramble_pin_layout_title">Karıştırma düzeni</string>
+    <string name="unlock_scramble_pin_layout_summary">Cihazın kilidini açarken PIN düzenini karıştır</string>
 
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Google Play</string>
 
 
     <!-- Adaptive Playback -->
-    <string name="adaptive_playback_screen_title">Adaptive playback</string>
-    <string name="adaptive_playback_timeout_title">Use a timeout of</string>
-    <string name="adaptive_playback_timeout_none_summary">Off</string>
-    <string name="adaptive_playback_timeout_30_secs">30 seconds</string>
-    <string name="adaptive_playback_timeout_30_secs_summary">On (30 seconds)</string>
-    <string name="adaptive_playback_timeout_1_min">1 minute</string>
-    <string name="adaptive_playback_timeout_1_min_summary">On (1 minute)</string>
-    <string name="adaptive_playback_timeout_2_min">2 minutes</string>
-    <string name="adaptive_playback_timeout_2_min_summary">On (2 minutes)</string>
-    <string name="adaptive_playback_timeout_5_min">5 minutes</string>
-    <string name="adaptive_playback_timeout_5_min_summary">On (5 minutes)</string>
-    <string name="adaptive_playback_timeout_10_min">10 minutes</string>
-    <string name="adaptive_playback_timeout_10_min_summary">On (10 minutes)</string>
+    <string name="adaptive_playback_screen_title">Uyarlanabilir oynatma</string>
+    <string name="adaptive_playback_timeout_title">Zaman aşımı kullanın</string>
+    <string name="adaptive_playback_timeout_none_summary">Kapalı</string>
+    <string name="adaptive_playback_timeout_30_secs">30 saniye</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Açık (30 saniye)</string>
+    <string name="adaptive_playback_timeout_1_min">1 dakika</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Açık (1 dakika)</string>
+    <string name="adaptive_playback_timeout_2_min">2 dakika</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Açık (2 dakika)</string>
+    <string name="adaptive_playback_timeout_5_min">5 dakika</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Açık (5 dakika)</string>
+    <string name="adaptive_playback_timeout_10_min">10 dakika</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Açık (10 dakika)</string>
 
     <!-- Notification log --> 
-    <string name="notification_log_summary">Show notifications history log</string>
+    <string name="notification_log_summary">Bildirim geçmişi günlüğünü göster</string>
 
     <!-- Touch sensitivity -->
-    <string name="touch_sensitivity_summary">Improves touch when using screen protectors</string>
-    <string name="touch_sensitivity_title">Increase touch sensitivity</string>
-    <string name="keywords_touch_sensitivity">touch, sensitivity, sensitive, screen protector, film, responsive, responsiveness</string>
+    <string name="touch_sensitivity_summary">Ekran koruyucuları kullanırken dokunmayı geliştirir</string>
+    <string name="touch_sensitivity_title">Dokunma hassasiyetini artırın</string>
+    <string name="keywords_touch_sensitivity">dokunma, duyarlılık, duyarlı, ekran koruyucu, film, duyarlı, duyarlılık</string>
 
     <!-- Per-app data restrictions -->
-    <string name="data_usage_app_restrict_data">Cellular data</string>
-    <string name="data_usage_app_restrict_data_summary">Enable usage of cellular data</string>
-    <string name="data_usage_app_restrict_vpn">VPN data</string>
-    <string name="data_usage_app_restrict_vpn_summary">Enable usage of VPN data</string>
-    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi data</string>
-    <string name="data_usage_app_restrict_wifi_summary">Enable usage of Wi\u2011Fi data</string>
+    <string name="data_usage_app_restrict_data">Hücresel veri</string>
+    <string name="data_usage_app_restrict_data_summary">Hücresel veri kullanımını etkinleştir</string>
+    <string name="data_usage_app_restrict_vpn">VPN verileri</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN verilerinin kullanımını etkinleştir</string>
+    <string name="data_usage_app_restrict_wifi">Wi\u2011Fi verileri</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi\u2011Fi verilerinin kullanımını etkinleştir</string>
 
     <!-- Update notifer -->
-    <string name="stag_notifier_title">Update notifications</string>
-    <string name="stag_notifier_summary">Get push notifications when an update is available</string>
+    <string name="stag_notifier_title">Güncelleme bildirimleri</string>
+    <string name="stag_notifier_summary">Bir güncelleme olduğunda push bildirimleri alın</string>
 
     <!-- Long back swipe options -->
-    <string name="navbar_gesture_tweaks_pref_title">Advanced gestures</string>
-    <string name="navbar_gesture_tweaks_pref_summary">Customize gestures and set custom actions</string>
-    <string name="navbar_gesture_tweaks_cat_title">Advanced</string>
-    <string name="long_back_swipe_timeout_title">Long swipe action timeout</string>
-    <string name="left_swipe_actions_title">Long left swipe action</string>
-    <string name="left_swipe_app_action_title">Select long left swipe app</string>
-    <string name="right_swipe_actions_title">Long right swipe action</string>
-    <string name="right_swipe_app_action_title">Select long right swipe app</string>
-    <string name="left_vertical_swipe_actions_title">Vertical left swipe action</string>
-    <string name="left_vertical_swipe_app_action_title">Select vertical left swipe app</string>
-    <string name="right_vertical_swipe_actions_title">Vertical right swipe action</string>
-    <string name="right_vertical_swipe_app_action_title">Select vertical right swipe app</string>
-    <string name="gesture_nav_tweaks_footer_info">To choose a specific app activity for the action, long press on any app in the apps picker.\n\nIf launcher is showing, do the swipe at the very bottom area of the screen to trigger the action.</string>
-    <string name="back_swipe_extended_title">Extended swipe action</string>
-    <string name="back_swipe_extended_summary">Trigger action on wider swipe (more than half of display size), or a L swipe (vertically longer enough)</string>
+    <string name="navbar_gesture_tweaks_pref_title">Gelişmiş hareketler</string>
+    <string name="navbar_gesture_tweaks_pref_summary">Hareketleri özelleştirin ve özel eylemler ayarlayın</string>
+    <string name="navbar_gesture_tweaks_cat_title">Gelişmiş</string>
+    <string name="long_back_swipe_timeout_title">Uzun kaydırma hareketi zaman aşımı</string>
+    <string name="left_swipe_actions_title">Uzun sola kaydırma hareketi</string>
+    <string name="left_swipe_app_action_title">Sola uzun kaydırma uygulaması seçin</string>
+    <string name="right_swipe_actions_title">Uzun sağ kaydırma hareketi</string>
+    <string name="right_swipe_app_action_title">Sağa uzun kaydırma uygulaması seçin</string>
+    <string name="left_vertical_swipe_actions_title">Dikey sola kaydırma hareketi</string>
+    <string name="left_vertical_swipe_app_action_title">Sola dikey kaydırma uygulaması seç</string>
+    <string name="right_vertical_swipe_actions_title">Dikey sağa kaydırma hareketi</string>
+    <string name="right_vertical_swipe_app_action_title">Dikey sağa kaydırma uygulamasını seçin</string>
+    <string name="gesture_nav_tweaks_footer_info">Eylem için belirli bir uygulama etkinliği seçmek için uygulama seçicideki herhangi bir uygulamaya uzun basın.\n\nBaşlatıcı gösteriliyorsa, eylemi tetiklemek için ekranın en alt kısmındaki kaydırmayı yapın.</string>
+    <string name="back_swipe_extended_title">Genişletilmiş kaydırma hareketi</string>
+    <string name="back_swipe_extended_summary">Geniş kaydırma (ekran boyutunun yarısından fazlası) veya L kaydırma (dikey olarak yeterince uzun) tetikleme eylemi</string>
 
 </resources>
